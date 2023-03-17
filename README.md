@@ -1,0 +1,2 @@
+# ITecSeg
+Projeto ITecSeg
